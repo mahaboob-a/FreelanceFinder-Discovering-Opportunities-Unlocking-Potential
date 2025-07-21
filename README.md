@@ -33,7 +33,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/FreelanceFinder.git
+git clone https:https://github.com/mahaboob-a/FreelanceFinder-Discovering-Opportunities-Unlocking-Potential
 cd FreelanceFinder
 Install dependencies:
 
@@ -86,5 +86,5 @@ Please fork the repository and submit a pull request.
 This project is licensed under the MIT License.
 
 📂 Resources
-📁 Drive: Project Files
-🎥 Live Demo: Watch on YouTube
+📁 Drive: https://drive.google.com/drive/folders/1qSHHh8S_qLJWC4BPu_5vAumUOqLJHh9_?usp=sharing
+

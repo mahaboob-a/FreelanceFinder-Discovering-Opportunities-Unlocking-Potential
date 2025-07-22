@@ -25,7 +25,7 @@ A powerful freelance job discovery platform that connects freelancers with clien
 ⚙️ Installation & Setup
 1.Clone the repository:
 bash
-git clone https://github.com/your-username/FreelanceFinder.git
+(https://github.com/mahaboob-a/FreelanceFinder-Discovering-Opportunities-Unlocking-Potential)
 cd FreelanceFinder
 
 2.Install dependencies:
